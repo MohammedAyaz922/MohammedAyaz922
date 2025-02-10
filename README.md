@@ -61,10 +61,6 @@ I'm a Full Stack Developer with 5+ years of experience in building scalable web 
 🔹 [**Threads App**](https://github.com/MohammedAyaz922/threads_app) - A social media platform similar to Threads.  
  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAyaz922&show_icons=true&theme=dark)
 
 ---
 

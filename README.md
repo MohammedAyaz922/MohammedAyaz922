@@ -3,9 +3,6 @@
 ## 🚀 About Me
 I'm a Full Stack Developer with 5+ years of experience in building scalable web applications. Proficient in Java, React, Node.js, and AWS, I have expertise in frontend development with modern frameworks and backend development using Spring Boot and Express.js. Passionate about building high-performance applications, I focus on creating seamless user experiences and robust backend solutions.
 
-## 🔗 Connect with Me
-[![LinkedIn](www.linkedin.com/in/mohammed-ayaz-khan-120536220)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://portfolio-qf194t72r-mohammed-ayaz-khans-projects.vercel.app/)
 
 ---
 
